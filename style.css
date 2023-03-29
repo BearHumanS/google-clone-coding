@@ -254,7 +254,11 @@ header .right-menu .logIn:hover {
     flex-grow: 1;
     min-height: 0px;
     max-height: 352px;
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
 }
+
 
 /* Footer */
 .footer-container {
@@ -323,6 +327,7 @@ header .right-menu .logIn:hover {
     box-shadow: 0 2px 6px rgba(116, 114, 114, 0.8);
     overflow: auto;
     height: 150px;
+    display: none;
   }
   ::-webkit-scrollbar {
     width: 5px;
