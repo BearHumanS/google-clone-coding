@@ -252,8 +252,6 @@ header .right-menu .logIn:hover {
     flex-shrink: 0;
     box-sizing: border-box;
     flex-grow: 1;
-    min-height: 0px;
-    max-height: 352px;
 }
 
 /* Footer */
@@ -305,13 +303,11 @@ header .right-menu .logIn:hover {
     position: relative;
   }
   
-  .container-menu .right-menu .apps-menu .apps-button {
+.container-menu .right-menu .apps-menu .apps-button {
     background-color: transparent;
     border: none;
     cursor: pointer;
   }
-
-  
 
 /* Drop down */
 .container-menu .right-menu .apps-menu .apps-dropdown {
