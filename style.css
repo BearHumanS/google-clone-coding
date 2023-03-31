@@ -486,14 +486,14 @@ header .right-menu .logIn:hover {
     color: #bdc1c6;
 }
 .header-night .container-menu .right-menu .apps-menu .apps-dropdown .other-apps {
-    border-bottom: 1px solid #5f6368;
+    border-top: 1px solid #5f6368;
 }
 .header-night .container-menu .right-menu .apps-menu .apps-dropdown .etc button {
     background-color: #303134;
 }
 .header-night .container-menu .right-menu .apps-menu .apps-dropdown .etc button:hover {
-background-color: #494b52;
-box-shadow: 0 0.5px 0.5px #eaedf1;
+    background-color: #494b52;
+    box-shadow: 0 0.5px 0.5px #eaedf1;
 }
 .footer-night.footer-container .footer-box {
     background: #171717;
