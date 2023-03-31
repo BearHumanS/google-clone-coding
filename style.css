@@ -519,4 +519,13 @@ header .right-menu .logIn:hover {
   .blank {
     height: 100%;
   }
+  .footer-container .footer-item-2 .right-item .dropdown-content {
+  position: absolute;
+    bottom: -560px;
+    right: -140px;
+    z-index: 1;
+    background-color: #ffffff;
+    display: none;
+    width: 248px;
+  }
 }
